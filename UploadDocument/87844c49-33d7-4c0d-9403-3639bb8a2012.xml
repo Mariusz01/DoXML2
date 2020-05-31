@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Adresies>
+	<Adresy>
+		<Id>1</Id>
+		<Imie>Marek</Imie>
+		<Nazwisko>Markowski</Nazwisko>
+		<Miasto>Rzeszów</Miasto>
+		<Ulica>Rejtana</Ulica>
+		<NrDomu>33</NrDomu>
+	</Adresy>
+	<Adresy>
+		<Id>2</Id>
+		<Imie>Marek2</Imie>
+		<Nazwisko>Markowski2</Nazwisko>
+		<Miasto>Rzeszów2</Miasto>
+		<Ulica>Rejtana2</Ulica>
+		<NrDomu>332</NrDomu>
+	</Adresy>
+		<Adresy>
+		<Id>3</Id>
+		<Imie>Arek</Imie>
+		<Nazwisko>Maślak</Nazwisko>
+		<Miasto>Warszawa</Miasto>
+		<Ulica>Słoneczna</Ulica>
+		<NrDomu>76/4</NrDomu>
+	</Adresy>
+</Adresies>
